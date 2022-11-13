@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabh
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning java
+- 🌱 I’m a java developer
 - 💞️ I’m looking to learn & practice more about java and full stack
 - 📫 How to reach me sjkumarmishra.01@gmail.com
 
